@@ -7,4 +7,4 @@ nombre = st.text_input("¿Cómo te llamas?")
 if nombre:
     st.write(f"¡Hola, {nombre}! Esta es mi primera app en internet.")
 
-st.info(f"✳ - Versión 0.1 Módulo Fundamentos de Programación")
+st.info(f"✳ - Versión 0.2 Módulo Fundamentos de Programación")
